@@ -9,7 +9,7 @@ for (var i= 0; i < genres.length; i++ ) {
 }
 
 //*Goal: The strings in this array should only print the genres with 4 characters in them
-//**Pseudocode: Declare varying generes of music ranging in character length, include some with only 4 characters
+//*Pseudocode: Declare varying generes of music ranging in character length, include some with only 4 characters
 //: for statement will run loop once through the whole array
 //:: create a if statment that contains a conditional that is strickly equal to 4 
 
@@ -19,6 +19,7 @@ for (var i= 0; i < genres.length; i++ ) {
 // Rock
 // Soul
 
+------------------------
 
 // 2.Start with an array of strings with a mix of uppercase and lowercase letters. Print every word in all lowercase letters.
 
@@ -38,6 +39,7 @@ for (var i=0; i < artists.length; i++) {
 // oasis
 // pixies
 
+------------------------
 
 // 3.Given an array of strings, return only the words that begin with the letter "t".
 
