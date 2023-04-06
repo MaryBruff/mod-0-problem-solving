@@ -19,7 +19,7 @@ for (var i= 0; i < genres.length; i++ ) {
 // Rock
 // Soul
 
-------------------------
+//------------------------
 
 // 2.Start with an array of strings with a mix of uppercase and lowercase letters. Print every word in all lowercase letters.
 
@@ -39,7 +39,7 @@ for (var i=0; i < artists.length; i++) {
 // oasis
 // pixies
 
-------------------------
+//------------------------
 
 // 3.Given an array of strings, return only the words that begin with the letter "t".
 
